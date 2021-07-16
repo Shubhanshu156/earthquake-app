@@ -1,5 +1,5 @@
 package com.example.earthquakeapp;
-
+//package com.example.earthquakeapp;
 import android.content.Context;
 import android.graphics.drawable.GradientDrawable;
 import android.util.Log;
@@ -13,6 +13,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
+
+import com.example.android.quakereport.R;
 
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
